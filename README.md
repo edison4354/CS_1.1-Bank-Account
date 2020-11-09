@@ -1,4 +1,4 @@
-# Foobar
+# BankAccount
 
 BankAccount is a class for using your termial as a ATM
 
