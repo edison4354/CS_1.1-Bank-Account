@@ -1,6 +1,6 @@
 # BankAccount
 
-BankAccount is a class for using your termial as a ATM
+The BankAccount class uses object-oriented programming concepts to create a Python program that simulates a bank account.
 
 ## Installation
 
